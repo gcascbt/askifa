@@ -1,0 +1,314 @@
+.layout-dark .main-content {
+    background: #1d1d1d
+}
+
+.layout-dark .entry-title a {
+    color: #fff
+}
+
+.header-dark.header-style1,
+.header-dark.header-style2,
+.header-dark.header-style3,
+.header-dark.header-style4 {
+    background: #000
+}
+
+.header-dark.header-style3,
+.header-dark.header-style4 {
+    padding: 0 0 25px 0
+}
+
+.header-dark a.login-icon-click,
+.header-dark a.logout-icon-click {
+    color: #fff
+}
+
+.header-dark.header-style3 .Social-header,
+.header-dark.header-style4 .Social-header,
+.header-dark.header-style5 .Social-header,
+.header-sticky-dark {
+    background: #000
+}
+
+.header-dark.header-style5 .header-main-buttons {
+    border-color: #2b2b2b
+}
+
+.header-dark.header-style5 .Social-header {
+    border: 0
+}
+
+.header-dark #headermenu ul ul li a,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category-content li .post .post-title h6,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category-content li .post .post-title h6 a,
+.header-dark #headermenu>ul>li>a,
+.header-dark .Search-Icon-click,
+.header-dark .login-icon-click,
+.header-dark .woocommerce-cart-icon a,
+.header-dark.header-style3 .close-button.pull-left,
+.header-dark.header-style3 .social-icons li a,
+.header-dark.header-style3 .social-toggle,
+.header-dark.header-style4 .close-button.pull-left,
+.header-dark.header-style4 .social-icons li a,
+.header-dark.header-style4 .social-toggle,
+.header-dark.header-style5 .social-icons li a,
+.header-dark.header-style5 .social-toggle,
+.header-dark.header-style5 a.close-button {
+    color: #fff
+}
+
+.header-dark #headermenu ul ul,
+.header-dark #headermenu ul ul li,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category.five-menu,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu,
+.header-dark .header-menu,
+.header-dark .login-icon-header,
+.header-dark .mega-menu-content,
+.header-dark .woocommerce-cart-icon,
+.header-dark.header-style4 .header-main-buttons {
+    border-color: #2b2b2b
+}
+
+.header-dark #headermenu ul ul,
+.header-dark #headermenu ul ul li a,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category-content,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category.five-menu .mega-category-content,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu {
+    background-color: #1d1d1d
+}
+
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu li:hover>a,
+.header-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu li>a:hover {
+    background-color: #333
+}
+
+.header-sticky-dark #headermenu ul ul li a,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category-content li .post .post-title h6,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category-content li .post .post-title h6 a,
+.header-sticky-dark #headermenu>ul>li>a {
+    color: #fff
+}
+
+.header-sticky-dark #headermenu ul ul,
+.header-sticky-dark #headermenu ul ul li,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu,
+.header-sticky-dark .header-menu,
+.header-sticky-dark .mega-menu-content,
+.header-sticky-dark .woocommerce-cart-icon {
+    border-color: #2b2b2b
+}
+
+.header-sticky-dark #headermenu ul ul,
+.header-sticky-dark #headermenu ul ul li a,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category-content,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .mega-category.five-menu .mega-category-content,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu {
+    background-color: #1d1d1d
+}
+
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu li:hover>a,
+.header-sticky-dark #headermenu ul>li.mega-menu .mega-menu-content .sub-menu li>a:hover {
+    background-color: #333
+}
+
+.header-dark .post-author,
+.header-dark .post-category,
+.header-dark .post-comment,
+.header-dark .post-data,
+.header-dark .post-email,
+.header-dark .post-views {
+    color: #9e9e9e
+}
+
+.main-footer.dark .sidebar-style1 .widget-title h2,
+.main-footer.dark .sidebar-style2 .widget-title h2,
+.main-footer.dark .sidebar-style4 .widget-title h2,
+.main-footer.dark .sidebar-style5 .widget-title h2,
+.main-footer.dark .sidebar-style6 .widget-title h2,
+.main-footer.dark .sidebar-style7 .widget-title h2,
+.main-footer.dark .sidebar-widget .widget-search form button i,
+.main-footer.dark .sidebar-widget a:not(.username),
+.main-footer.dark .tweet-community ul li {
+    color: #fff
+}
+
+.main-footer.dark .sidebar-widget .post-meta .post-data,
+.main-footer.dark .sidebar-widget .tweet-community ul li a.username {
+    color: #e8e8e8
+}
+
+.main-footer.dark .sidebar-style1 .widget-title,
+.main-footer.dark .sidebar-widget .author-social-icons li a,
+.main-footer.dark .sidebar-widget .widget-search form input {
+    border-color: #333
+}
+
+.main-footer.dark .cairo-posts-widgets-style2,
+.main-footer.dark .sidebar-style4 .widget-title,
+.main-footer.dark .sidebar-style5,
+.main-footer.dark .sidebar-style6 .widget-title {
+    border-color: #333
+}
+
+.main-footer.dark .sidebar-style1 .widget-title h2:before {
+    background: #fff
+}
+
+.main-footer.dark .sidebar-style2 .widget-title,
+.main-footer.dark .sidebar-style7 .widget-title {
+    background: #333
+}
+
+.main-footer.dark .sidebar-widget .widget-search form input {
+    background: #333
+}
+
+.main-footer.dark .sidebar-style5 .widget-title h2,
+.main-footer.dark .sidebar-widget {
+    background: #000
+}
+
+.main-footer.dark .sidebar-style7 .widget-title:after {
+    border-top-color: #333
+}
+
+.main-footer.dark .sidebar-widget {
+    background: 0 0!important
+}
+
+.main-footer.dark .sidebar-widget {
+    background: 0 0!important
+}
+
+.main-footer.dark .sidebar-widget.widget_archive ul li~li,
+.main-footer.dark .sidebar-widget.widget_categories ul li ul li~li,
+.main-footer.dark .sidebar-widget.widget_categories ul li~li,
+.main-footer.dark .sidebar-widget.widget_meta ul li~li,
+.main-footer.dark .sidebar-widget.widget_nav_menu ul li~li,
+.main-footer.dark .sidebar-widget.widget_pages ul li~li,
+.main-footer.dark .sidebar-widget.widget_recent_comments ul li~li,
+.main-footer.dark .sidebar-widget.widget_recent_entries ul li~li,
+.main-footer.dark .sidebar-widget.widget_rss ul li~li,
+.main-footer.dark .sidebar-widget.widget_archive select,
+.main-footer.dark .sidebar-widget.widget_categories select,
+.main-footer.dark .sidebar-widget.widget_text form select,
+.main-footer.dark .sidebar-widget.widget_tag_cloud .tagcloud a,
+.main-footer.dark .sidebar-widget.widget_calendar .calendar_wrap table caption,
+.main-footer.dark .sidebar-widget.widget_calendar .calendar_wrap table thead,
+.main-footer.dark .sidebar-widget.widget_calendar .calendar_wrap table td,
+.main-footer.dark .sidebar-widget.widget_calendar .calendar_wrap table {
+    border-color: #333;
+    color: #FFF;
+}
+
+.main-footer.dark .sidebar-widget.widget_archive ul li, .widget_categories ul li,
+.main-footer.dark .sidebar-widget.widget_meta ul li,
+.main-footer.dark .sidebar-widget.widget_nav_menu ul li,
+.main-footer.dark .sidebar-widget.widget_pages ul li,
+.main-footer.dark .sidebar-widget.widget_recent_comments ul li,
+.main-footer.dark .sidebar-widget.widget_recent_entries ul li,
+.main-footer.dark .sidebar-widget.widget_rss ul li {
+    color: #FFF;
+}
+
+.main-footer.dark .sidebar-widget.widget_calendar .calendar_wrap table thead {
+    background-color: transparent;
+}
+.main-footer.dark .sidebar-widget select {
+    background: url(../images/down-chevron-light.svg) no-repeat right 5% center;
+}
+
+
+
+/**
+Category Posts Dark
+**/
+.category-posts-dark {
+    background: #131313;
+    padding: 30px;
+    border-radius: 3px;
+}
+
+.category-posts-dark .entry-title a {
+    color: #FFF;
+}
+
+.category-posts-dark .category-module-blocks.block-category-small,
+.category-posts-dark .category-module-blocks.block-category-small .post {
+    border-color: rgba(255,255,255,0.1) !important;
+}
+
+.category-posts-dark .module-title .subcategory ul li a {
+    color: #FFF;
+}
+
+.category-posts-dark .loading-posts {
+    background-color: rgba(19, 19, 19, 0.80);
+}
+
+.category-posts-dark.category-content-module.style1 .block-category-larg {
+    position: relative;
+    overflow: hidden
+}
+
+.category-posts-dark .post-detail p,
+.category-posts-dark .post-meta li,
+.category-posts-dark .post-meta-info .item {
+    color: #a0a0a0;
+}
+
+.category-posts-dark.category-content-module.style2 {
+    padding: 30px;
+}
+
+.category-posts-dark.category-content-module.style3 .post-excerpt {
+    display: inline-block;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+
+.category-posts-dark.category-content-module.style4 .block-category-small {
+    padding: 0 20px;
+}
+
+.category-posts-dark.category-content-module.style6 .block-category-larg .post-title .entry-title {
+    background-color: #131313;
+}
+
+.category-posts-dark.category-content-module.style7 .block-category-larg .post-title:before {
+    background-color: #131313;
+}
+
+.category-posts-dark .module-title.style1 {
+    border-bottom: 3px solid rgba(255,255,255,0.1);
+}
+
+.category-posts-dark .module-title.style4{
+    border-color: rgba(255,255,255,0.1);
+}
+
+.category-posts-dark .module-title.style3 h4 {
+    background: #131313;
+}
+
+.category-posts-dark .module-title.style3 .subcategory {
+    background: #131313;
+}
+
+.category-posts-dark .module-title.style2,
+.category-posts-dark .module-title.style3:before {
+    background-color: rgba(255,255,255,0.1);
+}
+
+.category-posts-dark .overflow {
+    background: #3a3a3a;
+}
+
+.category-posts-dark.category-content-module.style4 .block-category-small {
+    max-height: 435px;
+}
